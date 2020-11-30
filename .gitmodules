@@ -1,0 +1,3 @@
+[submodule "trident-proposal"]
+	path = trident-proposal
+	url = git@github.com:smithwhale-2022/trident-proposal.git
