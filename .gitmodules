@@ -1,3 +1,6 @@
 [submodule "trident-proposal"]
 	path = trident-proposal
 	url = git@github.com:smithwhale-2022/trident-proposal.git
+[submodule "test-matlabfinmodel-fa2020"]
+	path = test-matlabfinmodel-fa2020
+	url = git@github.com:usna-honorsfish-2021/test-matlabfinmodel-fa2020.git
